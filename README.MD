@@ -4,7 +4,7 @@
 
 # Proyecto: Lista de Amigos
 
-![Vista previa del proyecto](assets/AmigoSecreto.png)
+![Vista previa del proyecto](assets/Amigo Secreto.png)
 
 ## 📖 Descripción
 Este proyecto es una práctica de **lógica de programación** en JavaScript.  
